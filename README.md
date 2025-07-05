@@ -1,2 +1,2 @@
 # sampleRepo
-sample test
+sample test one
